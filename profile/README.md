@@ -20,27 +20,70 @@
 
 ## Features
 
-### 1. **Personalized Financial Guidance**
-   - AI-powered suggestions tailored to your spending and saving habits.
-   - Contextual advice to help you make better financial decisions.
+### 1. Money Management
+- **Expense & Income Tracking**:
+  A core feature for tracking and monitoring users' expenses and income in real-time, with the ability to categorize transactions.
 
-### 2. **Receipt Scanning with OCR**
-   - Automatically extract data from your receipts.
-   - Organize and classify expenses effortlessly.
-
-### 3. **AI Advisory**
-   - Get actionable insights on your finances.
-   - Receive tips on how to improve spending habits and achieve your financial goals.
+- **Transaction Management**:
+  Users can easily manage their transactions, including adding, editing, or deleting financial data.
 
 ---
 
-## Why Seimbang.in?
+### 2. Automated Receipt Scanning
+- **OCR Integration**:
+  Utilizes Optical Character Recognition (OCR) to automatically read and extract data from purchase receipts, minimizing manual input.
 
-Indonesia faces significant challenges in financial literacy, with many struggling to manage their money effectively. Seimbang.in was created to tackle these issues by:
+- **Data Structuring**:
+  Information from receipts is processed into structured data, such as item names, prices, and transaction dates, to be directly added to the user's financial records.
 
-- Simplifying financial advice for everyone.
-- Empowering users to make informed decisions.
-- Helping families and individuals achieve financial stability.
+---
+
+### 3. AI Advisor
+- **Personalized Financial Suggestions**:
+  Provides personalized financial advice based on users' financial profiles. The AI analyzes spending and income patterns to deliver tailored saving or investment recommendations.
+
+- **Chatbot Assistance**:
+  An AI-powered chatbot (e.g., Gemini AI) enables users to interact easily and receive real-time advice for financial decision-making.
+
+---
+
+### 4. Cloud-Backed Performance
+- **Scalable Backend**:
+  The system leverages serverless architecture (Cloud Run) and is supported by managed databases (Cloud SQL) and file storage (Cloud Storage) on Google Cloud Platform (GCP).
+
+- **AI & ML Models**:
+  Machine learning models like OCR and text classification optimized for high performance using Vertex AI and TensorFlow.
+
+- **Generative AI Integration**:
+  Employs generative AI models to provide data-driven recommendations with high accuracy.
+
+---
+
+### 5. Secure and User-Friendly Mobile App
+- **Attractive UI/UX**:
+  Features an intuitive and visually appealing interface to ensure a smooth user experience.
+
+- **Secure Login & Authentication**:
+  Ensures user security with robust authentication mechanisms.
+
+---
+
+## Why Use Seimbang.in?
+
+1. **Purpose-Driven**
+   Seimbang.in addresses Indonesia's critical financial literacy gap, where only 38.7% of adults demonstrate basic financial knowledge (OJK, 2022). By providing personalized, data-driven insights, Seimbang.in empowers users to make informed financial decisions, bridging essential knowledge gaps.
+
+2. **Data-Driven**
+   With Indonesia's growing digital landscape—192 million active internet users and over 60% smartphone ownership—Seimbang.in offers real-time, tech-enabled financial management tailored to the needs of young professionals and digital natives.
+
+3. **Government-Aligned**
+   Seimbang.in supports Bank Indonesia's National Financial Literacy Strategy, contributing to the goal of increasing literacy to 75% by 2025. It also complements government initiatives for financial inclusion and sustainable economic empowerment.
+
+4. **Impactful Stakeholders**
+   - **End-Users**: Gain practical financial knowledge, improved budgeting, and personalized planning tools.
+   - **Financial Institutions**: Benefit from enhanced engagement and data-driven insights.
+   - **Government**: Aligns with national objectives to promote financial education and reduce economic vulnerability.
+
 
 ---
 
