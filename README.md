@@ -1,2 +1,0 @@
-# Seimbang.in
-
