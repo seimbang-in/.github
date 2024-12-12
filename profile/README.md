@@ -27,7 +27,6 @@
 - **Transaction Management**:
   Users can easily manage their transactions, including adding, editing, or deleting financial data.
 
----
 
 ### 2. Automated Receipt Scanning
 - **OCR Integration**:
@@ -36,7 +35,6 @@
 - **Data Structuring**:
   Information from receipts is processed into structured data, such as item names, prices, and transaction dates, to be directly added to the user's financial records.
 
----
 
 ### 3. AI Advisor
 - **Personalized Financial Suggestions**:
@@ -45,7 +43,6 @@
 - **Chatbot Assistance**:
   An AI-powered chatbot (e.g., Gemini AI) enables users to interact easily and receive real-time advice for financial decision-making.
 
----
 
 ### 4. Cloud-Backed Performance
 - **Scalable Backend**:
@@ -57,7 +54,6 @@
 - **Generative AI Integration**:
   Employs generative AI models to provide data-driven recommendations with high accuracy.
 
----
 
 ### 5. Secure and User-Friendly Mobile App
 - **Attractive UI/UX**:
