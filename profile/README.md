@@ -18,6 +18,10 @@ Seimbang.in is a mobile app that leverages AI technology to help Indonesians imp
    - Get actionable insights on your finances.
    - Receive tips on how to improve spending habits and achieve your financial goals.
 
+### 4. **Financial Goal Tracking**
+   - Set savings targets and monitor your progress.
+   - Stay motivated to reach your goals with real-time updates.
+
 ---
 
 ## Why Seimbang.in?
@@ -48,10 +52,10 @@ Indonesia faces significant challenges in financial literacy, with many struggli
 
 ## Technology Stack
 
-- **Frontend:** Kotlin for cross-platform mobile development.
+- **Frontend:** Flutter for cross-platform mobile development.
 - **Backend:** Node.js with Express for API development.
 - **Database:** MySQL for structured data storage.
-- **AI & OCR:** Integrated with TensorFlow and Paddle for advanced machine learning and text recognition.
+- **AI & OCR:** Integrated with TensorFlow and Tesseract for advanced machine learning and text recognition.
 - **Cloud Provider:** Google Cloud Platform (GCP) for scalable infrastructure.
 
 ---
@@ -68,20 +72,26 @@ At Seimbang.in, we’re passionate about making financial literacy accessible to
    Coming soon on the App Store and Google Play.
 
 2. **Create an Account**  
-   Sign up with your email.
+   Sign up with your email or phone number.
 
 3. **Start Your Financial Journey**  
    Explore the features and take control of your finances.
 
 ---
 
-## Contact Us
+## Our Team
 
-We’d love to hear your feedback and ideas! Reach out to us at:
+### Machine Learning Team (ML)
+- **M183B4KY2931** – Muhammad Khosyi Nawwari – Universitas Amikom Yogyakarta - Active
+- **M183B4KY3676** – Rama Syailana Dewa – Universitas Amikom Yogyakarta - Active
+- **M312B4KY0546** – Angga Aji Kurniawan – Universitas Sebelas Maret - Active
 
-- **Email:** support@seimbang.in  
-- **Instagram:** [@seimbang.in](https://instagram.com/seimbang.in)  
-- **Website:** [www.seimbang.in](http://www.seimbang.in)
+### Cloud Computing Team (CC)
+- **C183B4KY1721** – Claudio Hans Figo – Universitas Amikom Yogyakarta - Active
+- **C183B4KY4122** – Shandika David Ardiansyah – Universitas Amikom Yogyakarta - Active
+
+### Mobile Development Team (MD)
+- **A193B4KY3614** – Ragil Budiarto – Universitas Bina Sarana Informatika - Active
 
 ---
 
