@@ -6,7 +6,7 @@
   Seimbang.in
 </h1>
 <p align="center">
- Seimbang.in is a mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success.
+ Seimbang.in is a money management mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success.
 </p>
 
 <p align="center">
@@ -50,16 +50,16 @@ Indonesia faces significant challenges in financial literacy, with many struggli
 
 ## How It Works
 
-1. **Sign Up and Set Your Profile**  
+1. **Sign Up and Set Your Profile**
    Create an account, input your financial details, and set your goals.
 
-2. **Scan Receipts**  
+2. **Scan Receipts**
    Use your phone camera to scan receipts, and let the app categorize your spending automatically.
 
-3. **Get Insights**  
+3. **Get Insights**
    View personalized financial tips and track your progress toward achieving your goals.
 
-4. **Achieve Stability**  
+4. **Achieve Stability**
    Build better habits and enjoy a more secure financial future.
 
 ---
@@ -82,13 +82,13 @@ At Seimbang.in, we’re passionate about making financial literacy accessible to
 
 ## Getting Started
 
-1. **Download the App**  
+1. **Download the App**
    Coming soon on the App Store and Google Play.
 
-2. **Create an Account**  
+2. **Create an Account**
    Sign up with your email or phone number.
 
-3. **Start Your Financial Journey**  
+3. **Start Your Financial Journey**
    Explore the features and take control of your finances.
 
 ---
@@ -112,4 +112,3 @@ At Seimbang.in, we’re passionate about making financial literacy accessible to
 ## License
 
 Seimbang.in is licensed under the [MIT License](LICENSE).
-
