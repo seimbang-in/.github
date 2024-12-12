@@ -1,6 +1,20 @@
-# Seimbang.in
+<div align="center">
+ <img src="./logo.png" width=200/>
+</div>
 
-Seimbang.in is a mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success.
+<h1 align="center">
+  Seimbang.in
+</h1>
+<p align="center">
+ Seimbang.in is a mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success.
+</p>
+
+<p align="center">
+    <a href="https://github.com/consumet/api.consumet.org/actions/workflows/docker-build.yml">
+      <img src="https://github.com/consumet/api.consumet.org/actions/workflows/docker-build.yml/badge.svg" alt="Discord">
+    </a>
+</p>
+
 
 ---
 
