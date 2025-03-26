@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Seimbang.in
+  Seimbang.in (Top 50 Product-based Capstone Projects Bangkit Academy 2024 Batch 2)
 </h1>
 <p align="center">
  Seimbang.in is a money management mobile app that leverages AI technology to help Indonesians improve their financial management. By providing personalized tips, scanning receipts with OCR, and offering simple yet effective financial advice, Seimbang.in makes building good money habits easier. Our ultimate goal is to empower users to achieve financial stability and long-term success.
@@ -43,19 +43,7 @@
 - **Chatbot Assistance**:
   An AI-powered chatbot (e.g., Gemini AI) enables users to interact easily and receive real-time advice for financial decision-making.
 
-
-### 4. Cloud-Backed Performance
-- **Scalable Backend**:
-  The system leverages serverless architecture (Cloud Run) and is supported by managed databases (Cloud SQL) and file storage (Cloud Storage) on Google Cloud Platform (GCP).
-
-- **AI & ML Models**:
-  Machine learning models like OCR and text classification optimized for high performance using Vertex AI and TensorFlow.
-
-- **Generative AI Integration**:
-  Employs generative AI models to provide data-driven recommendations with high accuracy.
-
-
-### 5. Secure and User-Friendly Mobile App
+### 4. Secure and User-Friendly Mobile App
 - **Attractive UI/UX**:
   Features an intuitive and visually appealing interface to ensure a smooth user experience.
 
@@ -99,51 +87,24 @@
 
 ---
 
-## Technology Stack
-
-- **Frontend:** Kotlin for Mobile Development.
-- **Backend:** Node.js with Express for API development.
-- **Database:** MySQL for structured data storage.
-- **AI & OCR:** Integrated with TensorFlow and PaddleOCR for advanced machine learning and text recognition.
-- **Cloud Provider:** Google Cloud Platform (GCP) for scalable infrastructure.
-
----
-
 ## Our Mission
 
 At Seimbang.in, we’re passionate about making financial literacy accessible to everyone. Our mission is to simplify financial management and empower Indonesians to build better financial habits, one step at a time.
 
 ---
 
-## Getting Started
-
-1. **Download the App**
-   Coming soon on the App Store and Google Play.
-
-2. **Create an Account**
-   Sign up with your email or phone number.
-
-3. **Start Your Financial Journey**
-   Explore the features and take control of your finances.
-
----
-
 ## Our Team
-
-### Machine Learning Team (ML)
+### Bangkit Team
 - **M183B4KY2931** – Muhammad Khosyi Nawwari – Universitas Amikom Yogyakarta
 - **M183B4KY3676** – Rama Syailana Dewa – Universitas Amikom Yogyakarta
 - **M312B4KY0546** – Angga Aji Kurniawan – Universitas Sebelas Maret
-
-### Cloud Computing Team (CC)
 - **C183B4KY1721** – Claudio Hans Figo – Universitas Amikom Yogyakarta
 - **C183B4KY4122** – Shandika David Ardiansyah – Universitas Amikom Yogyakarta
-
-### Mobile Development Team (MD)
 - **A193B4KY3614** – Ragil Budiarto – Universitas Bina Sarana Informatika
 
----
-
-## License
-
-Seimbang.in is licensed under the [MIT License](LICENSE).
+### BMD Team (*Active Now)
+- Rama Syailana Dewa
+- Muhammad Khosyi Nawwari
+- Muhammad Fawwaz Humam
+- Claudio Hans Figo
+- Shandika David Ardiansyah
