@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./logo.png" width=200/>
+ <img src="./Seimbangin_logo_new.png" width=200/>
 </div>
 
 <h1 align="center">
